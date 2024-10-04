@@ -1,0 +1,74 @@
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe.config
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.pdb
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormLogin.resources
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormMaintenance.resources
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.Properties.Resources.resources
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.exe
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.pdb
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormCustomer.resources
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormBook.resources
+C:\Users\User\source\repos\Winter\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormMISManager.resources
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe.config
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.pdb
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormBook.resources
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormCustomer.resources
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormLogin.resources
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormMaintenance.resources
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormMISManager.resources
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.Properties.Resources.resources
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.exe
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.pdb
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalPro.D44C7E33.Up2Date
+C:\Users\User\source\repos\Winter\Module1 (4)\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormOrder.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe.config
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.pdb
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormBook.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormCustomer.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormLogin.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormMaintenance.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormMISManager.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormOrder.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.Properties.Resources.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalPro.D44C7E33.Up2Date
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.exe
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.pdb
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe.config
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.exe
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\bin\Debug\FinalProject_HiTech.pdb
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormBook.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormCustomer.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormLogin.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormMaintenance.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormMISManager.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.GUI.FormOrder.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.Properties.Resources.resources
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalPro.D44C7E33.Up2Date
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.exe
+C:\Users\User\source\repos\Winter\Final_Project_Riddhi_Shelly\All Modules In Module1\Module1\FinalProject_HiTech\obj\Debug\FinalProject_HiTech.pdb
